@@ -3,7 +3,7 @@ let heroiXp =139;
 
 switch (true) {
     case heroiXp >= 0 && heroiXp <= 1000:
-        console.log("O Herói " + nomeHeroi + " está no nível **Ferro**");
+        console.log("O Herói " + nomeHeroi + " está no nível Ferro");
         break;
     
     case heroiXp >= 1001 && heroiXp <= 2000:
