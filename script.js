@@ -31,6 +31,6 @@ switch (true) {
             break;
 
     case heroiXp >= 10000:
-                console.log("O Herói " + nomeHeroi + " está no nível Ferro");
+                console.log("O Herói " + nomeHeroi + " está no nível Radiante");
                 break;
     }
